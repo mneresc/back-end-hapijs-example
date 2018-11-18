@@ -1,0 +1,34 @@
+{
+  "name": "hapi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Soares <douglas.arantes@gmail.com> AND Marcelo Neres <mneresc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bissle": "^1.2.3",
+    "boom": "^4.3.1",
+    "halacious": "^5.0.0",
+    "handlebars": "^4.0.10",
+    "hapi": "^16.1.1",
+    "hapi-locale": "^1.0.2",
+    "hapi-pagination": "^1.20.0",
+    "hapi-swagger": "^7.7.0",
+    "inert": "^4.2.0",
+    "joi18n": "0.0.18",
+    "mysql": "^2.13.0",
+    "oauth2-server": "^3.0.0-b4",
+    "pg": "^6.2.4",
+    "sequelize": "^3.30.4",
+    "sequelize-cli": "^2.7.0",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "lab": "^14.0.1"
+  }
+}
